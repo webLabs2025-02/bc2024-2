@@ -1,2 +1,3 @@
 http://backend.course/Seecherr
 http://backend.course/?name=%22Yurii%20Kyrchei%22&github_name=%22Seecherr%22&group=%22FEP-22%22&subgroup=%22Subgroup%201%22
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=eur&sort=exchangedate&order=desc&json
